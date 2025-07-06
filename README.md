@@ -1,12 +1,6 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Enunciado do Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
 
@@ -20,32 +14,36 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Felicitações Mágicas: Cartões Digitais Interativos Criados com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, utilizei a IA do Canva para criar um cartão digital de felicitações interativo baseado em SVG com animações modernas. O objetivo foi criar um cartão de aniversário para a destinatária "Emma", com animações de confetes, um fundo suave em gradiente de azul a rosa, e elementos interativos que são acionados quando clicados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **IA do Canva**: Para criação de cartões digitais interativos.
+- **ChatGPT**: Para gerar conteúdo textual e auxiliar na estruturação do projeto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação começou com o comando:
+"Crie um cartão digital de felicitações baseado em SVG com animações modernas. Comece com um exemplo de cartão de aniversário para 'Emma', incluindo animações de confete, um fundo suave em gradiente de azul a rosa e elementos interativos que se acionam ao serem clicados."
+
+Além disso, para personalizar a criação, foram feitas algumas perguntas, como:
+
+Nome do destinatário e tipo de comemoração
+
+Paleta de cores preferida (2 a 3 cores)
+
+Mensagem a ser exibida
+
+Preferências quanto ao estilo de animação
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Cartão digital visualmente dinâmico e totalmente personalizável, criado de forma rápida e prática com o auxílio da IA do Canva, demonstrando as possibilidades dessa tecnologia na criação de conteúdo visual interativo.
+
+https://www.canva.com/design/DAGsW166Y4g/VhzYKsToh4OuVUQjoVKLZA/view?utm_content=DAGsW166Y4g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha720aa9fa2
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
